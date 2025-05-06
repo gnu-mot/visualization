@@ -1,0 +1,6 @@
+name,location,distance_km,canadian,price_per_liter,tasting_fee
+Montreal Ice Cream Co,"Montreal, QC",120,True,1.95,0.0
+Brain Freeze Brothers,"Burlington, VT",85,False,1.91,12.5
+Toronto Gelato Ltd,"Toronto, ON",400,True,1.82,30.14
+Buffalo Scoops,"Buffalo, NY",220,False,2.43,42.0
+Vermont Creamery,"Portland, ME",280,False,2.33,0.2
